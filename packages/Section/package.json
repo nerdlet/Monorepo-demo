@@ -1,0 +1,14 @@
+{
+  "name": "@monorepo-starter/section",
+  "version": "1.0.0",
+  "main": "dist/section.cjs.js",
+  "module": "dist/section.esm.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@monorepo-starter/layout": "^1.0.0",
+    "clsx": "^1.1.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0"
+  }
+}
