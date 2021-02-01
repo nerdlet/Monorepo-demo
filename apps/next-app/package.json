@@ -9,7 +9,6 @@
 	"dependencies": {
 		"@material-ui/core": "^4.11.3",
 		"@material-ui/icons": "^4.11.2",
-		"@monorepo-starter/a": "1.0.0",
 		"@monorepo-starter/button": "1.0.0",
 		"@monorepo-starter/filter": "1.0.0",
 		"@monorepo-starter/layout": "^1.0.0",

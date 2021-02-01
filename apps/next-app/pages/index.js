@@ -1,7 +1,7 @@
 import React from "react";
 
 import Button from "@monorepo-starter/button";
-import A from "@monorepo-starter/a";
+//import A from "@monorepo-starter/a";
 import Layout from "@monorepo-starter/layout";
 import RichTypography from "@monorepo-starter/richtypography";
 import Section from "@monorepo-starter/section";
@@ -184,7 +184,7 @@ function HomePage() {
 			}}
 		>
 			<Button>Example Button</Button>
-			<A href="/">This is an example of a link next js</A>
+			{/* 	<A href="/">This is an example of a link next js</A> */}
 
 
 			<Layout>
