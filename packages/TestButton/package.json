@@ -1,0 +1,9 @@
+{
+	"name": "@monorepo-starter/test-button",
+	"version": "1.0.0",
+	"main": "dist/test-button.cjs.js",
+	"module": "dist/test-button.esm.js",
+	"dependencies": {
+		"react": "^16.12.0"
+	}
+}

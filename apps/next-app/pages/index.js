@@ -183,7 +183,7 @@ function HomePage() {
 				textAlign: "center"
 			}}
 		>
-			<Button>this is a button</Button>
+			<Button>Example Button</Button>
 			<A href="/">This is an example of a link next js</A>
 
 
